@@ -1,0 +1,3 @@
+power_path,image_paths,timestamps,target_path
+samples/power_0001.npy,images/0001_a.jpg;images/0001_b.jpg;images/0001_c.jpg,2019-06-01T18:00:00+00:00;2019-06-01T18:01:00+00:00;2019-06-01T18:02:00+00:00,samples/target_0001.npy
+samples/power_0002.npy,images/0002_a.jpg;images/0002_b.jpg;images/0002_c.jpg,2019-06-01T18:03:00+00:00;2019-06-01T18:04:00+00:00;2019-06-01T18:05:00+00:00,samples/target_0002.npy

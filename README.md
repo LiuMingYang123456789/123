@@ -9,6 +9,9 @@ sky image sequence + self-calibrated sun masks -> SG-SFSU + ConvLSTM -> Fc
 Fp + Fc -> dynamic gated fusion -> future PV power
 ```
 
+For a complete research handoff, module rationale, known assumptions, and next
+experiment checklist, start with [`docs/HANDOFF.md`](docs/HANDOFF.md).
+
 The default site coordinates are:
 
 - latitude: `37.427`
