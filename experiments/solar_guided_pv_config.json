@@ -1,0 +1,26 @@
+{
+  "dataset": "synthetic",
+  "output_dir": "runs/solar_guided_pv",
+  "epochs": 3,
+  "batch_size": 4,
+  "lr": 0.0001,
+  "weight_decay": 0.01,
+  "val_fraction": 0.2,
+  "latitude": 37.427,
+  "longitude": -122.174,
+  "image_size": [64, 64],
+  "mask_sigmas": [5.0, 12.0, 24.0],
+  "model": {
+    "power_input_dim": 1,
+    "image_channels": 3,
+    "mask_channels": 3,
+    "horizon": 6,
+    "reverso_dim": 32,
+    "reverso_layers": 2,
+    "reverso_heads": 4,
+    "conv_kernel": 15,
+    "cloud_dim": 32,
+    "fusion_dim": 64,
+    "dropout": 0.1
+  }
+}
