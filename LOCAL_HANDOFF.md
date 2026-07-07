@@ -3,7 +3,13 @@
 This repository already contains the complete handoff material for the
 solar-guided Reverso + SG-SFSU photovoltaic forecasting idea.
 
-Start here:
+Start here — full method, logic, and code thinking:
+
+```text
+docs/METHOD_AND_CODE.md
+```
+
+Operational handoff (commands, data formats, next steps):
 
 ```text
 docs/HANDOFF.md
