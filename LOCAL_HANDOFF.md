@@ -9,6 +9,12 @@ Start here:
 docs/HANDOFF.md
 ```
 
+Paper-writing summary of innovations, solved problems, and advantages:
+
+```text
+docs/INNOVATION.md
+```
+
 Example manifests:
 
 ```text
